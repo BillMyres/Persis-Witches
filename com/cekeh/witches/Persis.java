@@ -63,6 +63,6 @@ public class Persis extends Eyeholder {
      * Persis has won! Time for a chant.
      */
     public void victoryChant(){
-        System.out.printf("%s: Medusa, here I come!%n\033[0m", NAME);
+        System.out.printf("%s: Medusa, here I come!%n", NAME);
     }
 }
